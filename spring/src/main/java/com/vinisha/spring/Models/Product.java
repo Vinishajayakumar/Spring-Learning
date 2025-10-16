@@ -1,4 +1,4 @@
-package com.vinisha.Models;
+package com.vinisha.spring.Models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

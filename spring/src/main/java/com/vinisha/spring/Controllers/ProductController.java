@@ -1,5 +1,4 @@
 package com.vinisha.spring.Controllers;
-package com.store.app.Controllers;
 
 import java.util.List;
 
@@ -13,8 +12,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.store.app.Models.Product;
-import com.store.app.Services.ProductService;
+import com.vinisha.spring.Models.Product;
+import com.vinisha.spring.Services.ProductService;
+
+
 
 @RestController
 @RequestMapping("/products")
